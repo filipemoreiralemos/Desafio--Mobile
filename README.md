@@ -11,4 +11,4 @@ Desenvolver a landing page utilizando HTML5 + CSS3
 
 <h1> Versão Mobile </h1>
 
-<img src="./MobileChaleng.png" alt="Landing Page " >
+<img src="./MobileChalenge.png" alt="Landing Page " >
